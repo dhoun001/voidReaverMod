@@ -1,0 +1,53 @@
+{
+  "voidReaverMod:DefaultCommonAttack": {
+    "NAME": "Strike",
+    "DESCRIPTION": "Deal !D! Damage. NL [#0000ff]This[] [#ff0000]Is[] [#ffff00]How[] [#88888]color[] [#ff00ff]works.[]"
+  },
+  "voidReaverMod:DefaultCommonSkill": {
+    "NAME": "Defend",
+    "DESCRIPTION": "Gain !B! Block. NL voidReaverMod:Multiword_Keyword."
+  },
+  "voidReaverMod:DefaultCommonPower": {
+    "NAME": "Hold Place",
+    "DESCRIPTION": "Gain !M! voidReaverMod:Keyword.",
+    "UPGRADE_DESCRIPTION": "Gain !M! voidReaverMod:Keywords."
+  },
+  "voidReaverMod:DefaultUncommonAttack": {
+    "NAME": "Big slap",
+    "DESCRIPTION": "Deal !D! Damage."
+  },
+  "voidReaverMod:DefaultUncommonSkill": {
+    "NAME": "A Better Defend",
+    "DESCRIPTION": "Gain !B! Plated Armor. Affected by Dexterity."
+  },
+  "voidReaverMod:DefaultUncommonPower": {
+    "NAME": "Weirdness",
+    "DESCRIPTION": "Gain X voidReaverMod:Keywords.",
+    "UPGRADE_DESCRIPTION": "Gain X +1 voidReaverMod:Keywords."
+  },
+  "voidReaverMod:DefaultRareAttack": {
+    "NAME": "TOUCH",
+    "DESCRIPTION": "Deal !D! Damage."
+  },
+  "voidReaverMod:DefaultRareSkill": {
+    "NAME": "For Each Loop x2",
+    "DESCRIPTION": "Apply !M! vulnerable to all enemies, 2 times.",
+    "UPGRADE_DESCRIPTION": "Apply !M! vulnerable to all enemies, 3 times."
+  },
+  "voidReaverMod:DefaultRarePower": {
+    "NAME": "In-Progress Form",
+    "DESCRIPTION": "At the start of your turn, play a TOUCH."
+  },
+  "voidReaverMod:DefaultAttackWithVariable": {
+    "NAME": "Special Strike",
+    "DESCRIPTION": "Deal !D! Damage [E] times. NL (Deal !voidReaverMod:ENERGY_DAMAGE! damage total.)"
+  },
+  "voidReaverMod:DefaultSecondMagicNumberSkill": {
+    "NAME": "Cool 2 Number Card",
+    "DESCRIPTION": "Apply !M! vulnerable and !voidReaverMod:SecondMagic! poison to an enemy."
+  },
+  "voidReaverMod:OrbSkill": {
+    "NAME": "Get Orb",
+    "DESCRIPTION": "Channel 1 Default Orb."
+  }
+}
